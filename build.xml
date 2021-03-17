@@ -6,6 +6,6 @@
         </java>  
     </target>  
     <target name="compile">  
-        <javac includeantruntime="false" srcdir="./src" destdir = "test"></javac>  
+        <javac includeantruntime="false"  destdir = "test"></javac>  
     </target>  
 </project>  
