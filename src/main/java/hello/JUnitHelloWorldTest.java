@@ -1,4 +1,4 @@
-package hello;
+package junit;
  
 import static org.junit.Assert.assertTrue;
  
