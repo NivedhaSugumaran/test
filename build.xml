@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>  
-<project name="java-ant project" default="run">  
+<project name="bmi" default="run">  
     <target name="run" depends="compile">  
         <java classname = "com.test.JavaExamples">  
             <classpath path="test"></classpath>  
