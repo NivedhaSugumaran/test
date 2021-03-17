@@ -1,4 +1,4 @@
-package hello;
+package junit;
 
 public class HelloWorld {
       public boolean isGreater(int num1, int num2){
