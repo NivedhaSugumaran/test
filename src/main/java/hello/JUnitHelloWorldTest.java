@@ -24,7 +24,7 @@ public class JUnitHelloWorldTest {
     public void isGreaterTest() {
         System.out.println("Test");
         HelloWorld helloWorld = new HelloWorld();
-        assertTrue("Num 1 is greater than Num 2", helloWorld.isGreater(4, 3));
+        assertTrue("Num 1 is greater than Num 2", helloWorld.isGreater(3, 3));
     }
  
     @After
